@@ -1,14 +1,14 @@
-# ITS Microsoft Database Exam Certification Practice 🎓
+# ITS Microsoft Database Exam Certification Practice 
 
 This project is a simulation and study tool designed for students preparing for the **Information Technology Specialist (ITS): Databases** certification (formerly part of the Microsoft Technology Associate framework).
 
-## 🎯 Goal
+##  Goal
 The objective of this repository is to help students:
 * **Master Normalization:** Practice identifying and correcting data up to Third Normal Form (3NF).
 * **Visual Learning:** Transition from flat, messy data to structured relational schemas.
 * **Exam Readiness:** Familiarize yourself with the logic and question styles found in official Microsoft exams.
 
-## 🛠 How to Use This for Practice
+##  How to Use This for Practice
 1. **Analyze the Components:** Look through the sample data provided in the simulation.
 2. **Apply Normalization Rules:** * **1NF:** Ensure all attributes are atomic (no lists in cells).
     * **2NF:** Remove partial functional dependencies.
